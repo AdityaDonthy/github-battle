@@ -6,6 +6,7 @@ html, body, #app {
   
   body {
     font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif;
+    color: white
   }
   
   ul {
@@ -20,7 +21,7 @@ html, body, #app {
     max-width: 1200px;
     margin: 0 auto;
     padding: 50px;
-    background-color: #c2c8c8;
+    background-color: #454d4d;
   }
   
   .flex-center {
